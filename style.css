@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    background-color: brown;
+    margin: 0;
+    justify-content: center;
+    border: 2px solid yellow;
+}
+
+.center{
+    background-color: #1f2937;
+}
+
+.header{
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    width: 1200px;
+}
+.logo {
+    color: #f9faf8;
+}
+
+
+.btn-top{
+    color: #f9faf8;
+}
+
+.h1{
+    align-self: center;
+}
+
+.main{
+    align-self: flex-start;
+}
